@@ -1,5 +1,5 @@
 {
-  "valid-array": [
+  "valid_array": [
     {
       "id": "alpha_delivery",
       "title": "Оплата и доставка",
@@ -55,7 +55,7 @@
       "web_url": "https://beta.auchan.zakaz.ua/ru/service-page/b2b_advantages/"
     }
   ],
-  "empty-array": [],
+  "empty_array": [],
   "null": null,
   "string": "string"
 }
